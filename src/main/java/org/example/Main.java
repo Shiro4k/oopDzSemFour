@@ -20,6 +20,5 @@ public class Main {
 
         Calculator<Double> doubleCalculator = new Calculator<>(5.0);
         System.out.println("doubleCalculator.binaryConversion() = " + doubleCalculator.binaryConversion());
-//        System.out.println("calculator.toBinaryString(2) = " + calculator.toBinaryString(101));
     }
 }
